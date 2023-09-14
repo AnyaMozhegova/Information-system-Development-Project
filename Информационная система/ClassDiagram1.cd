@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApp1.AboutOur" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAQASAAAACAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutOur.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Calen" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAARADKAABECQAWAAAAiQEQAZAJQAAABEAAEBIA=</HashCode>
+      <FileName>Calen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.MainForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBokAEAAKAQABERVBiFEEESwBwQgAYgAyQCBSIQAAY=</HashCode>
+      <FileName>CrudClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.CrudProduct" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABogAAAhKAQADEQQBiBAEACABwEgBBBgyQCgAIQAQY=</HashCode>
+      <FileName>CrudProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.CrudProductForClient" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAQAACAQABAAQACBAAACAAwIAAAAAEQAAAAQAAA=</HashCode>
+      <FileName>CrudProductForClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.CustomCalendar" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABBAAACAAAAAAAACAAAACAECYfwAAAIAAAAAAACA=</HashCode>
+      <FileName>CustomCalendar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.DayBlank" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACBAAAAAhACAAAACAAACADAUAAAAAAAAIgA=</HashCode>
+      <FileName>DayBlank.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.EndOfShift" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xCEHRE1AGHIEJkbQ0iCIzEiBEOBkADgF2hwISABSoA=</HashCode>
+      <FileName>EndOfShift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Export" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hBAgAAAAACAQAAAAQACBAAACEDw4AAAAAHQAAAAQAAA=</HashCode>
+      <FileName>Export.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.GrudSeller" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kABskBUQBKAQABEwRAiFEEECjBwghBRAAyQCAAIQgQc=</HashCode>
+      <FileName>GrudSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Gradient" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEAAAAAAAQA=</HashCode>
+      <FileName>Gradient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Login" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAUAACIAAJAAAACAAAADQCAAQAACIQAQIQDAAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Menu" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AChMIgEgACAglBAAAKCAQDIKAAAIBgYBhAAAAYAUAAg=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.MenuClientcs" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AChMIgEgACAAFBAAAKCAADIKAAAIBgQBgAAAAYAQAAg=</HashCode>
+      <FileName>MenuClientcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.MenuSeller" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AChMIgEgACAAlBAAAKCAQDIKAAAIBgYBgAAAAYAUAAg=</HashCode>
+      <FileName>MenuSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.NewOrder" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAACAAABAAQACBAAATAAwAAAAAEAQQAAAQAQQ=</HashCode>
+      <FileName>NewOrder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.Order" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABogAAAhKAQADEQQBiBAEACAB4EgBABgyQCgAIQAAY=</HashCode>
+      <FileName>Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.OrderFromClientcs" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EDAgAAEEASBYABoYQAiBShBTIGYBAAAKMARAAAAQgIA=</HashCode>
+      <FileName>OrderFromClientcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApp1.RegisterForm" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MCTAaRSAECsACRBAFECKAACDQAAQCAoIYQCKIyCEEAA=</HashCode>
+      <FileName>RegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

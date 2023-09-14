@@ -1,0 +1,112 @@
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.Wpf.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\MySql.Data.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\Google.Protobuf.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\ZstdNet.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\System.Memory.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\System.Buffers.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.pdb
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.xml
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.WinForms.xml
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\LiveCharts.Wpf.xml
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\MySql.Data.xml
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.config
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\Interop.ExcelAdaptorLib.dll
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.ResolveComReference.cache
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.AboutOur.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Calen.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Chart.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.CrudProduct.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.CrudProductForClient.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.CustomCalendar.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.DayBlank.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.EndOfShift.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Export.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.GrudSeller.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Login.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MainForm.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Menu.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MenuClientcs.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MenuSeller.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.NewOrder.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Order.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.OrderFromClientcs.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.RegisterForm.resources
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+C:\Users\Пользователь\source\repos\pet store information system\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.manifest
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\WindowsFormsApp1.application
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\FontAwesome.Sharp.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.WinForms.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.Wpf.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\MySql.Data.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\Google.Protobuf.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\ZstdNet.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\System.Memory.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\System.Buffers.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.pdb
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.xml
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.WinForms.pdb
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.WinForms.xml
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.Wpf.pdb
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\LiveCharts.Wpf.xml
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\bin\Release\MySql.Data.xml
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.config
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\Interop.ExcelAdaptorLib.dll
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.AboutOur.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Calen.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Chart.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.CrudProduct.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.CrudProductForClient.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.CustomCalendar.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.DayBlank.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.EndOfShift.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Export.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.GrudSeller.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Login.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MainForm.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Menu.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MenuClientcs.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.MenuSeller.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.NewOrder.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Order.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.OrderFromClientcs.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.RegisterForm.resources
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.manifest
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.application
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\Development of an information system for a pet store.csproj.CopyComplete
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Пользователь\Desktop\Разработка информационной системы магазина товаров для животных\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
